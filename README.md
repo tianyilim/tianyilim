@@ -41,6 +41,46 @@ I'm also involved in Imperial's [Formula Student Artificial Intelligence](https:
 ### Stats for Nerds
 **This week I spent my time on:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
+🌆 Daytime    152 commits    █████████░░░░░░░░░░░░░░░░   37.16% 
+🌃 Evening    147 commits    █████████░░░░░░░░░░░░░░░░   35.94% 
+🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.31%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      17 repos            ██████████░░░░░░░░░░░░░░░   40.48% 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+C                        6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Verilog                  5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+
+```
+
+
+
+ Last Updated on 29/05/2022 12:28:05 UTC
 <!--END_SECTION:waka-->
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tianyilim&show_icons=true&theme=gotham" alt="tianyilim" />
 
