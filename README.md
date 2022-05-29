@@ -39,7 +39,6 @@ Currently, I'm working on my Final Year Project at Imperial on Multi-Robot path 
 I'm also involved in Imperial's [Formula Student Artificial Intelligence](https://www.imeche.org/events/formula-student/team-information/fs-ai) competition where we hope to get our vehicle to autonomously detect and drive around a closed circuit demarcated by cones.
 
 ### Stats for Nerds
-**This week I spent my time on:**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20mins-blue)
 
