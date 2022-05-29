@@ -17,8 +17,6 @@
 
 ![vistors](https://visitor-badge.glitch.me/badge?page_id=tianyilim.tianyilim)
 
-<br/>
-
 ### About Me
 Hello! I'm Tianyi, a final year BEng [Electronic and Information Engineering](https://www.imperial.ac.uk/electrical-engineering/study/undergraduate/electronic-and-information-engineering/) (for the rest of the world, Computer Engineering) student at Imperial College London.
 
