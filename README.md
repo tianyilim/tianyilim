@@ -40,17 +40,13 @@ I'm also involved in Imperial's [Formula Student Artificial Intelligence](https:
 
 ### Stats for Nerds
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-🌆 Daytime    152 commits    █████████░░░░░░░░░░░░░░░░   37.16% 
-🌃 Evening    147 commits    █████████░░░░░░░░░░░░░░░░   35.94% 
-🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.31%
+🌞 Morning    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
+🌆 Daytime    155 commits    █████████░░░░░░░░░░░░░░░░   37.35% 
+🌃 Evening    150 commits    █████████░░░░░░░░░░░░░░░░   36.14% 
+🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.19%
 
 ```
 
@@ -79,7 +75,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2022 12:28:05 UTC
+ Last Updated on 30/05/2022 01:21:34 UTC
 <!--END_SECTION:waka-->
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tianyilim&show_icons=true&theme=gotham" alt="tianyilim" />
 
