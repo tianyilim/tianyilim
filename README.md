@@ -40,13 +40,13 @@ I'm also involved in Imperial's [Formula Student Artificial Intelligence](https:
 
 ### Stats for Nerds
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-🌆 Daytime    162 commits    ██████████░░░░░░░░░░░░░░░   40.6% 
-🌃 Evening    170 commits    ██████████░░░░░░░░░░░░░░░   42.61% 
-🌙 Night      29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.27%
+🌞 Morning    38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+🌆 Daytime    163 commits    ██████████░░░░░░░░░░░░░░░   40.25% 
+🌃 Evening    175 commits    ██████████░░░░░░░░░░░░░░░   43.21% 
+🌙 Night      29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.16%
 
 ```
 
@@ -83,7 +83,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2022 12:30:34 UTC
+ Last Updated on 09/07/2022 01:13:58 UTC
 <!--END_SECTION:waka-->
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tianyilim&show_icons=true&theme=gotham" alt="tianyilim" />
 
