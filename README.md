@@ -18,7 +18,7 @@
 ![vistors](https://visitor-badge.glitch.me/badge?page_id=tianyilim.tianyilim)
 
 ### About Me
-Hello! I'm Tianyi, a final year BEng [Electronic and Information Engineering](https://www.imperial.ac.uk/electrical-engineering/study/undergraduate/electronic-and-information-engineering/) (for the rest of the world, Computer Engineering) student at Imperial College London.
+Hello! I'm Tianyi! I have just graduated from a three-year BEng [Electronic and Information Engineering](https://www.imperial.ac.uk/electrical-engineering/study/undergraduate/electronic-and-information-engineering/) (for the rest of the world, Computer Engineering) course at Imperial College London.
 
 I am passionate about **robotics** &mdash; the union of computing, mathematics, electrical and mechanical engineering and more. To that end, I will soon be furthering my studies at ETH Zürich in the [MSc Robotics, Systems, and Control](https://master-robotics.ethz.ch/) course.
 
@@ -34,9 +34,11 @@ I am passionate about **robotics** &mdash; the union of computing, mathematics, 
 I am fluent in Python and C++. From various projects, internships and coursework, I also have experience in ROS(2), TensorFlow, Fusion 360, MATLAB, and Verilog.
 
 ### I'm currently working on
-Currently, I'm working on my Final Year Project at Imperial on Multi-Robot path planning using a variation of the Dynamic Window Approach. The algorithms are written in Python and simulated in ROS/Gazebo.
+I've recently completed my Final Year Project at Imperial on Multi-Robot path planning using a variation of the Dynamic Window Approach. The algorithms are written in Python and simulated in ROS/Gazebo. Check it out [here](https://github.com/tianyilim/ic-fyp)!
 
-I'm also involved in Imperial's [Formula Student Artificial Intelligence](https://www.imeche.org/events/formula-student/team-information/fs-ai) competition where we hope to get our vehicle to autonomously detect and drive around a closed circuit demarcated by cones.
+I was also involved in Imperial's [Formula Student Artificial Intelligence](https://www.imeche.org/events/formula-student/team-information/fs-ai) competition where we hope to get our vehicle to autonomously detect and drive around a closed circuit demarcated by cones. Check out the organization on [LinkedIn](https://www.linkedin.com/company/imperial-driverless/?trk=similar-pages) and [GitHub](https://github.com/Imperial-Driverless).
+
+I'll be heading to Prague for the IEEE RAS Summer School 2022 on Multi-Robot Systems in August. If you see me there, say hi 😀
 
 ### Stats for Nerds
 <!--START_SECTION:waka-->
