@@ -42,30 +42,6 @@ I'll be heading to Prague for the IEEE RAS Summer School 2022 on Multi-Robot Sys
 
 ### Stats for Nerds
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
-🌆 Daytime    204 commits    ██████████░░░░░░░░░░░░░░░   43.31% 
-🌃 Evening    181 commits    █████████░░░░░░░░░░░░░░░░   38.43% 
-🌙 Night      33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    6 hrs 44 mins       ████████████████████████░   96.07% 
-C++                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.93%
-
-🐱‍💻 Projects: 
-summer-school-2022       6 hrs 44 mins       ████████████████████████░   96.07% 
-sudoku_cpp               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.93%
-
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -79,7 +55,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2022 12:27:08 UTC
+ Last Updated on 22/08/2022 01:25:10 UTC
 <!--END_SECTION:waka-->
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tianyilim&show_icons=true&theme=gotham" alt="tianyilim" />
 
