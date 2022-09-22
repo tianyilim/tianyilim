@@ -18,9 +18,11 @@
 ![vistors](https://visitor-badge.glitch.me/badge?page_id=tianyilim.tianyilim)
 
 ### About Me
-Hello! I'm Tianyi! I have just graduated from a three-year BEng [Electronic and Information Engineering](https://www.imperial.ac.uk/electrical-engineering/study/undergraduate/electronic-and-information-engineering/) (for the rest of the world, Computer Engineering) course at Imperial College London with first-class honours.
+Hello! I'm Tianyi! I am have just started my [MSc Robotics, Systems, and Control](https://master-robotics.ethz.ch/) course.
 
-I am passionate about **robotics** &mdash; the union of computing, mathematics, electrical and mechanical engineering and more. To that end, I will soon be furthering my studies at ETH Zürich in the [MSc Robotics, Systems, and Control](https://master-robotics.ethz.ch/) course.
+I graduated from a three-year BEng [Electronic and Information Engineering](https://www.imperial.ac.uk/electrical-engineering/study/undergraduate/electronic-and-information-engineering/) (for the rest of the world, Computer Engineering) course at Imperial College London with first-class honours.
+
+I am passionate about **robotics** &mdash; the union of computing, mathematics, electrical and mechanical engineering and more.
 
 ### Skills
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
@@ -38,7 +40,7 @@ I've recently completed my Final Year Project at Imperial on Multi-Robot path pl
 
 I was also involved in Imperial's [Formula Student Artificial Intelligence](https://www.imeche.org/events/formula-student/team-information/fs-ai) competition where we hope to get our vehicle to autonomously detect and drive around a closed circuit demarcated by cones. Check out the organization on [LinkedIn](https://www.linkedin.com/company/imperial-driverless/?trk=similar-pages) and [GitHub](https://github.com/Imperial-Driverless).
 
-I'll be heading to Prague for the IEEE RAS Summer School 2022 on Multi-Robot Systems in August. If you see me there, say hi 😀
+I was also in Prague for the IEEE RAS Summer School 2022 on Multi-Robot Systems in August. It was a blast!
 
 ### Stats for Nerds
 <!--START_SECTION:waka-->
