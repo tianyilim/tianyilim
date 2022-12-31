@@ -59,10 +59,10 @@ I was also in Prague for the IEEE RAS Summer School 2022 on Multi-Robot Systems 
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 33 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-student-pdm4ar-2022hs-tia2 hrs 33 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,7 +79,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 01:03:38 UTC
+ Last Updated on 31/12/2022 12:22:48 UTC
 <!--END_SECTION:waka-->
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tianyilim&show_icons=true&theme=gotham" alt="tianyilim" />
 
