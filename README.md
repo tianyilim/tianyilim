@@ -37,9 +37,9 @@ I am fluent in Python and C++. From various projects, internships and coursework
 
 ### I'm currently working on
 - A Monocular Visual Odometry (VO) pipeline with elements from OpenCV, built in Python. This was coursework for the [Vision Algorithms for Mobile Robotics](https://rpg.ifi.uzh.ch/teaching.html) course at UZH.
-- A path planner for autonomous cars using the [RRTx](https://journals.sagepub.com/doi/abs/10.1177/0278364915594679) algorithm. This was coursework for the [Planning and Decision-Making for Autonomous Robots](https://idsc.ethz.ch/education/lectures/PDM4AR.html) course at ETH.
 
 ### Recent highlights
+- A path planner for autonomous cars using the [RRTx](https://journals.sagepub.com/doi/abs/10.1177/0278364915594679) algorithm. This was coursework for the [Planning and Decision-Making for Autonomous Robots](https://idsc.ethz.ch/education/lectures/PDM4AR.html) course at ETH. Check it out [here](https://github.com/tianyilim/RRTx).
 - My Final Year Project at Imperial College on Multi-Robot path planning using a variation of the Dynamic Window Approach. The algorithms are written in Python and simulated in ROS/Gazebo. Check it out [here](https://github.com/tianyilim/ic-fyp)!
 - I was also involved in Imperial's [Formula Student Artificial Intelligence](https://www.imeche.org/events/formula-student/team-information/fs-ai) competition where we hope to get our vehicle to autonomously detect and drive around a closed circuit demarcated by cones. Check out the organization on [LinkedIn](https://www.linkedin.com/company/imperial-driverless/?trk=similar-pages) and [GitHub](https://github.com/Imperial-Driverless).
 - I was also in Prague for the IEEE RAS Summer School 2022 on Multi-Robot Systems in August. It was a blast!
