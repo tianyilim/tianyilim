@@ -61,15 +61,10 @@ I am fluent in Python and C++. From various projects, internships and coursework
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 32 mins       ███████████████████████░░   93.98% 
-Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
-tmux                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-RRTx                     5 hrs 32 mins       ███████████████████████░░   93.98% 
-f110_pes                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
-dotfiles                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
+No Activity Tracked This Week
 
 ```
 
@@ -86,7 +81,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2023 01:06:17 UTC
+ Last Updated on 26/01/2023 12:28:18 UTC
 <!--END_SECTION:waka-->
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tianyilim&show_icons=true&theme=gotham" alt="tianyilim" />
 
