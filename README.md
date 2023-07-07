@@ -60,12 +60,10 @@ I am fluent in Python and C++. From various projects, internships and coursework
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 mins             ███████████████████░░░░░░   77.40 % 
-YAML                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+YAML                     4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          17 mins             ███████████████████░░░░░░   77.40 % 
-race_stack               5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+race_stack               4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -81,7 +79,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2023 01:22:48 UTC
+ Last Updated on 07/07/2023 12:30:18 UTC
 <!--END_SECTION:waka-->
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tianyilim&show_icons=true&theme=gotham" alt="tianyilim" />
 
