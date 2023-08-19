@@ -18,7 +18,7 @@
 ![vistors](https://visitor-badge.glitch.me/badge?page_id=tianyilim.tianyilim)
 
 ### About Me
-Hello! I'm Tianyi! I am in the second semester of my [MSc Robotics, Systems, and Control](https://master-robotics.ethz.ch/) course at ETH Zurich.
+Hello! I'm Tianyi! I am in the third semester of my [MSc Robotics, Systems, and Control](https://master-robotics.ethz.ch/) course at ETH Zurich. Currently, I am doing an internship at [Embotech](https://www.embotech.com/), helping with LiDAR perception for L4 autonomous trucks.
 
 I graduated from a three-year BEng [Electronic and Information Engineering](https://www.imperial.ac.uk/electrical-engineering/study/undergraduate/electronic-and-information-engineering/) (for the rest of the world, Computer Engineering) course at Imperial College London with first-class honours.
 
@@ -33,16 +33,17 @@ I am passionate about **robotics** &mdash; the union of computing, mathematics, 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg"></code>
 <code><img height="20" src="http://classic.gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg"></code>
 
-I am fluent in Python and C++. From various projects, internships and coursework, I also have experience in ROS(2), TensorFlow, Fusion 360, MATLAB, and Verilog.
+I am fluent in Python and C++. From various projects, internships and coursework, I also have experience in ROS(2), Fusion 360, and MATLAB.
 
 ### I'm currently working on
-- A Monocular Visual Odometry (VO) pipeline with elements from OpenCV, built in Python. This was coursework for the [Vision Algorithms for Mobile Robotics](https://rpg.ifi.uzh.ch/teaching.html) course at UZH.
+- Interning at Embotech!
 
 ### Recent highlights
+- Competing in the 2023 F1TENTH Autonomous Grand Prix with the _ForzaETH_ team. We managed to [win first place](https://ee.ethz.ch/news-and-events/d-itet-news-channel/2023/06/center-for-project-based-learning-champions-of-the-f1tenth-competition-at-icra2023.html)!
+- A Monocular Visual Odometry (VO) pipeline with elements from OpenCV, built in Python. This was coursework for the [Vision Algorithms for Mobile Robotics](https://rpg.ifi.uzh.ch/teaching.html) course at UZH.
 - A path planner for autonomous cars using the [RRTx](https://journals.sagepub.com/doi/abs/10.1177/0278364915594679) algorithm. This was coursework for the [Planning and Decision-Making for Autonomous Robots](https://idsc.ethz.ch/education/lectures/PDM4AR.html) course at ETH. Check it out [here](https://github.com/tianyilim/RRTx).
 - My Final Year Project at Imperial College on Multi-Robot path planning using a variation of the Dynamic Window Approach. The algorithms are written in Python and simulated in ROS/Gazebo. Check it out [here](https://github.com/tianyilim/ic-fyp)!
 - I was also involved in Imperial's [Formula Student Artificial Intelligence](https://www.imeche.org/events/formula-student/team-information/fs-ai) competition where we hope to get our vehicle to autonomously detect and drive around a closed circuit demarcated by cones. Check out the organization on [LinkedIn](https://www.linkedin.com/company/imperial-driverless/?trk=similar-pages) and [GitHub](https://github.com/Imperial-Driverless).
-- I was also in Prague for the IEEE RAS Summer School 2022 on Multi-Robot Systems in August. It was a blast!
 
 ### Stats for Nerds
 <!--START_SECTION:waka-->
