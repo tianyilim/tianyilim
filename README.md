@@ -14,7 +14,7 @@
 <a href="https://tianyilim.github.io/assets/TianyiLim_CV.pdf">
   <img align="left" alt="Tianyi's CV" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeacrobatreader.svg" />
 </a>
-
+<br/>
 
 ### About Me
 Hello! I'm Tianyi! I am in the fourth semester of my [MSc Robotics, Systems, and Control](https://master-robotics.ethz.ch/) course at ETH Zurich. Currently, I am working on my Masters' Thesis at the [Computer Vision and Geometry Lab](https://cvg.ethz.ch/) (CVG) at ETHz, working on large-scale Pose Graph Optimization.
@@ -36,7 +36,7 @@ I am fluent in Python and C++. From various projects, internships and coursework
 
 ### I'm currently working on
 - Master's Thesis on pose-graph optimization
-- Preparing to compete at the 2024 F1TENTH Autonomous Grand Prix with [_ForzaETH_](forzaeth.ch)
+- Preparing to compete at the 2024 F1TENTH Autonomous Grand Prix with [_ForzaETH_](https://www.forzaeth.ch/)
 
 ### Recent highlights
 - Helping to develop perception for L4 autonomous trucks with [Embotech](https://www.embotech.com/) as part of the _Safety, Systems, and Engineering_ team.
