@@ -6,7 +6,7 @@
   <img align="left" alt="Tianyi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
 </a>
 <a href="https://tianyilim.github.io/">
-  <img align="left" alt="Tianyi's Website" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" />
+  <img align="left" alt="Tianyi's Website" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" />
 </a>
 <a href="0.tianyi.lim@gmail.com">
   <img align="left" alt="Tianyi's Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />
@@ -36,11 +36,10 @@ I am fluent in Python and C++. From various projects, internships and coursework
 
 ### I'm currently working on
 - Master's Thesis on pose-graph optimization
-- Preparing to compete at the 2024 F1TENTH Autonomous Grand Prix with [_ForzaETH_](https://www.forzaeth.ch/)
 
 ### Recent highlights
+- Competing at ICRA23, ICRA24 and IROS24 F1TENTH Autonomous Grand Prix races with the [_ForzaETH_](https://www.forzaeth.ch/) team. We managed to [win first place](https://ee.ethz.ch/news-and-events/d-itet-news-channel/2023/06/center-for-project-based-learning-champions-of-the-f1tenth-competition-at-icra2023.html) in 2023 and delivered strong 3rd place finishes in both 2024 races!
 - Helping to develop perception for L4 autonomous trucks with [Embotech](https://www.embotech.com/) as part of the _Safety, Systems, and Engineering_ team.
-- Competing in the 2023 F1TENTH Autonomous Grand Prix with the _ForzaETH_ team. We managed to [win first place](https://ee.ethz.ch/news-and-events/d-itet-news-channel/2023/06/center-for-project-based-learning-champions-of-the-f1tenth-competition-at-icra2023.html)!
 - A Monocular Visual Odometry (VO) pipeline with elements from OpenCV, built in Python. This was coursework for the [Vision Algorithms for Mobile Robotics](https://rpg.ifi.uzh.ch/teaching.html) course at UZH.
 - A path planner for autonomous cars using the [RRTx](https://journals.sagepub.com/doi/abs/10.1177/0278364915594679) algorithm. This was coursework for the [Planning and Decision-Making for Autonomous Robots](https://idsc.ethz.ch/education/lectures/PDM4AR.html) course at ETH. Check it out [here](https://github.com/tianyilim/RRTx).
 - My Final Year Project at Imperial College on Multi-Robot path planning using a variation of the Dynamic Window Approach. The algorithms are written in Python and simulated in ROS/Gazebo. Check it out [here](https://github.com/tianyilim/ic-fyp)!
