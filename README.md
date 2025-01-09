@@ -1,25 +1,25 @@
 ### What's up, buttercup?
 <a href="https://www.instagram.com/stratosphere._/">
-  <img align="left" alt="Tianyi's Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />
+  <img align="left" alt="Tianyi's Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tianyilim/">
-  <img align="left" alt="Tianyi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+  <img align="left" alt="Tianyi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/linkedin.svg" />
 </a>
 <a href="https://tianyilim.github.io/">
-  <img align="left" alt="Tianyi's Website" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" />
+  <img align="left" alt="Tianyi's Website" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/googlechrome.svg" />
 </a>
 <a href="0.tianyi.lim@gmail.com">
-  <img align="left" alt="Tianyi's Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" />
+  <img align="left" alt="Tianyi's Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/gmail.svg" />
 </a>
 <a href="https://tianyilim.github.io/assets/TianyiLim_CV.pdf">
-  <img align="left" alt="Tianyi's CV" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeacrobatreader.svg" />
+  <img align="left" alt="Tianyi's CV" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ea278fba079c63b9cbfad555b8a2867bb7899c2a/icons/adobeacrobatreader.svg" />
 </a>
 <br/>
 
 ### About Me
-Hello! I'm Tianyi! I am in the fourth semester of my [MSc Robotics, Systems, and Control](https://master-robotics.ethz.ch/) course at ETH Zurich. Currently, I am working on my Masters' Thesis at the [Computer Vision and Geometry Lab](https://cvg.ethz.ch/) (CVG) at ETHz, working on large-scale Pose Graph Optimization.
+Hello! I'm Tianyi! I'm a robotics researcher at [DSO National Laboratories](https://www.dso.org.sg/), in Singapore 🇸🇬. 
 
-I graduated from a three-year BEng [Electronic and Information Engineering](https://www.imperial.ac.uk/electrical-engineering/study/undergraduate/electronic-and-information-engineering/) (for the rest of the world, Computer Engineering) course at Imperial College London with first-class honours.
+I have a MSc in [Robotics, Systems, and Control](https://master-robotics.ethz.ch/) from ETH Zurich, and a BEng in [Electronic and Information Engineering](https://www.imperial.ac.uk/electrical-engineering/study/undergraduate/electronic-and-information-engineering/) from Imperial College London.
 
 I am passionate about **robotics** &mdash; the union of computing, mathematics, electrical and mechanical engineering and more.
 
@@ -32,12 +32,13 @@ I am passionate about **robotics** &mdash; the union of computing, mathematics, 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg"></code>
 <code><img height="20" src="http://classic.gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg"></code>
 
-I am fluent in Python and C++. From various projects, internships and coursework, I also have experience in ROS(2), Fusion 360, and MATLAB.
+I am fluent in Python and C++. From various projects, internships and coursework, I also have experience in ROS(2) and Fusion 360.
 
 ### I'm currently working on
-- Master's Thesis on pose-graph optimization
+- World domination! Just kidding.
 
 ### Recent highlights
+- Master's Thesis on pose-graph optimization for large-scale SLAM. Publication _coming soon_...
 - Competing at ICRA23, ICRA24 and IROS24 F1TENTH Autonomous Grand Prix races with the [_ForzaETH_](https://www.forzaeth.ch/) team. We managed to [win first place](https://ee.ethz.ch/news-and-events/d-itet-news-channel/2023/06/center-for-project-based-learning-champions-of-the-f1tenth-competition-at-icra2023.html) in 2023 and delivered strong 3rd place finishes in both 2024 races!
 - Helping to develop perception for L4 autonomous trucks with [Embotech](https://www.embotech.com/) as part of the _Safety, Systems, and Engineering_ team.
 - A Monocular Visual Odometry (VO) pipeline with elements from OpenCV, built in Python. This was coursework for the [Vision Algorithms for Mobile Robotics](https://rpg.ifi.uzh.ch/teaching.html) course at UZH.
