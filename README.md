@@ -38,7 +38,7 @@ I am fluent in Python and C++. From various projects, internships and coursework
 - World domination! Just kidding.
 
 ### Recent highlights
-- Master's Thesis on pose-graph optimization for large-scale SLAM. Publication _coming soon_...
+- Master's Thesis on pose-graph optimization for large-scale SLAM. It's [here on arxiv](https://arxiv.org/abs/2503.16275)...
 - Competing at ICRA23, ICRA24 and IROS24 F1TENTH Autonomous Grand Prix races with the [_ForzaETH_](https://www.forzaeth.ch/) team. We managed to [win first place](https://ee.ethz.ch/news-and-events/d-itet-news-channel/2023/06/center-for-project-based-learning-champions-of-the-f1tenth-competition-at-icra2023.html) in 2023 and delivered strong 3rd place finishes in both 2024 races!
 - Helping to develop perception for L4 autonomous trucks with [Embotech](https://www.embotech.com/) as part of the _Safety, Systems, and Engineering_ team.
 - A Monocular Visual Odometry (VO) pipeline with elements from OpenCV, built in Python. This was coursework for the [Vision Algorithms for Mobile Robotics](https://rpg.ifi.uzh.ch/teaching.html) course at UZH.
